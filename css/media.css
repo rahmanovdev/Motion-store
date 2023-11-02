@@ -1500,16 +1500,21 @@
         padding-left: 8px;
     }
 
-    .courses-block {
-        padding: 20px;
-        width: 283px;
-        height: 297px;
+    .swiper {
+        width: 100%;
+        padding-top: 40px;
+        padding-bottom: 170px;
     }
+
+   
+        .courses-block {
+            width: 295px;
+            height: 420px;
+        }
+    
 
     .cs-block-center h4 {
         font-size: 19px;
-        padding-top: 130px;
-
     }
 
     .cs-block-center h6 {
@@ -1517,43 +1522,78 @@
         margin-top: 3px;
     }
 
+    .cs-block-top {
+        margin-top: 220px;
+    }
+
     .courses-block img {
-        width: 124px;
+        width: 154px;
         top: 7px;
-        right: 119px;
-        cursor: pointer;
+        right: 87px;
+        border-bottom: 2px solid #FF1A1A;
     }
 
     .cs-block-center button {
-        width: 116px;
-        height: 25px;
-        font-size: 10px;
+        width: 180px;
+        height: 40px;
+        font-size: 16px;
         margin-top: 16px;
+    }
+
+
+    #webinars {
+        padding-top: 63px;
     }
 
     .wb-block {
         padding: 22px;
-        width: 287px;
-        height: 280px;
+        width: 292px;
+        height: 438px;
+    }
+
+    .wb-block-top {
+        margin-top: 240px;
+    }
+
+    .wb-block-center {
+        padding-top: 24px;
     }
 
     .wb-block-center h4 {
+        font-size: 20px;
+    }
+
+    .wb-block-center h6 {
+        margin-top: 5px;
         font-size: 16px;
-        margin-top: 130px;
     }
 
     .wb-block img {
-        width: 153px;
+        width: 185px;
         position: absolute;
         top: 11px;
         right: 79px;
+        border-bottom: 2px solid  #FF1A1A;;
     }
 
+    .reviews-text {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .reviews-block {
+        width: 53%;
+        height: 215px;
+    }
+
+  
+
     .wb-block-center button {
-        height: 29px;
-        font-size: 11px;
+        width: 180px;
+        height: 40px;
+        font-size: 14px;
         margin-top: 16px;
-        width: 122px;
     }
 
     .ms-cl-block {
@@ -1587,10 +1627,7 @@
         font-size: 23px;
     }
 
-    .reviews-block {
-        width: 53%;
-        height: 200px;
-    }
+   
 
     
     .btn-1 {
@@ -1722,16 +1759,58 @@
         font-size: 21px;
     }
 
+    .swiper {
+        width: 100%;
+        padding-top: 40px;
+        padding-bottom: 170px;
+    }
+
     .wb-block {
         padding: 22px;
         width: 281px;
-        height: 282px;
+        height: 431px;
+    }
+
+    .wb-block-top {
+        margin-top: 240px;
+    }
+
+    .wb-block-center {
+        padding-top: 24px;
+    }
+
+    .wb-block-center h4 {
+        font-size: 19px;
+    }
+
+    .wb-block-center h6 {
+        margin-top: 5px;
+        font-size: 15px;
+    }
+
+    .wb-block img {
+        width: 185px;
+        position: absolute;
+        top: 11px;
+        right: 79px;
+        border-bottom: 2px solid  #FF1A1A;;
+    }
+
+    .reviews-text {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .reviews-block {
+        width: 53%;
+        height: 215px;
     }
 
     .courses-block {
         padding: 20px;
-        width: 279px;
-        height: 297px;
+        width: 277px;
+        height: 402px;
     }
 
     .cs-block-center h6 {
@@ -1746,10 +1825,7 @@
         padding: 24px;
     }
 
-    .reviews-block {
-        width: 52%;
-        height: 200px;
-    }
+
 
     .footer-set a .footer-set-icon {
         height: 21px;
@@ -1799,7 +1875,11 @@
     .courses-block {
         padding: 20px;
         width: 227px;
-        height: 269px;
+        height: 320px;
+    }
+
+    .cs-block-top {
+        margin-top: 170px;
     }
 
     .courses-block img {
@@ -1823,7 +1903,6 @@
 
     .cs-block-center h4 {
         font-size: 19px;
-        padding-top: 126px;
     }
 
     .webinars-start h2 {
@@ -1834,29 +1913,59 @@
         font-size: 21px;
     }
 
-    .wb-block {
-        padding: 14px;
-        width: 239px;
-        height: 262px;
+    .swiper {
+        width: 100%;
+        padding-top: 40px;
+        padding-bottom: 75px;
     }
 
-    .wb-block img {
-        width: 140px;
-        position: absolute;
-        top: 6px;
-        right: 58px;
+    .wb-block {
+        padding: 22px;
+        width: 230px;
+        height: 390px;
+    }
+
+    .wb-block-top {
+        margin-top: 220px;
+    }
+
+    .wb-block-center {
+        padding-top: 24px;
     }
 
     .wb-block-center h4 {
-        font-size: 15px;
-        margin-top: 115px;
+        font-size: 19px;
+    }
+
+    .wb-block-center h6 {
+        margin-top: 5px;
+        font-size: 13px;
+    }
+
+    .wb-block img {
+        width: 178px;
+        position: absolute;
+        top: 9px;
+        right: 49px;
+        border-bottom: 2px solid #FF1A1A;
     }
 
     .wb-block-center button {
-        height: 24px;
-        font-size: 10px;
-        margin-top: 11px;
-        width: 114px;
+        width: 158px;
+        height: 35px;
+        font-size: 14px;
+        margin-top: 19px;
+    }
+
+    .reviews-text {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .reviews-block {
+        width: 44%;
+        height: 213px;
     }
 
     .fa-laptop {
@@ -1961,11 +2070,6 @@
     
     .footer-bottom p {
         font-size: 14px;
-    }
-
-    .reviews-block {
-        width: 44%;
-        height: 193px;
     }
 
 }
