@@ -1,0 +1,1926 @@
+@media(max-width:1440px){
+    .container {
+        width: 90%;
+    } 
+}
+
+
+@media(max-width:1200px){
+    .container {
+        width: 90%;
+    } 
+
+    .header {
+        gap: 75px;
+    }
+
+    .header-center {
+        gap: 65px;
+    }
+
+    .header-center a {
+        font-size: 14px;
+      } 
+
+
+    .hero {
+        gap: 200px;
+    }
+
+    .courses-block {
+        padding: 22px ;
+        width: 580px;
+        height: 260px;
+        }
+
+        
+.courses-block img {
+    width: 200px;
+    position: absolute;
+    top: 24px;
+    right: 100px;
+    cursor:pointer ;
+}
+
+.cs-block-center h4 {
+    font-size: 17px;
+    }
+
+    .cs-block-center h6 {
+        font-size: 14px;
+    }
+
+    /* WEBINARS ======== */
+
+    .webinar-blocks {
+        padding-top: 50px;
+    }
+
+    .cs-block-center button {
+        margin-top: 65px;
+        width: 170px;
+        height: 36px;
+        gap: 18px;
+ }
+
+    .wb-block img {
+        width: 225px;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+
+    .wb-block {
+        padding: 22px ;
+         width: 460px;
+        height: 250px;
+        }
+
+    .wb-block-center button {
+        margin-top: 75px;
+        width: 170px;
+        height: 35px;
+    }
+
+    .wb-block-senter h4 {
+        font-size: 16px;
+        }
+        
+        .wb-block-center h6 {
+        font-size: 13px;
+        }
+
+
+        /* MASTER-CLASS---- */
+
+        .ms-cl-block {
+            width: 296px;
+            height: 270px;
+        }
+
+        .master-block-center h4 {
+            font-size: 16px;
+     }
+
+     .master-block-top p {
+        font-size: 10px;
+       }
+
+       .master-block-center h6 {
+        font-size: 11px;
+       }
+
+       .block-end-right h4 {
+        font-size: 14px;
+       }
+
+            
+        .block-end-right p {
+         font-size: 12px;
+         }
+
+
+         /* ADRESS ------ */
+
+         .address-left h1 {
+            font-size: 32px;
+            }
+
+            .address-left p {
+            font-size: 16px;
+           }
+
+           .address-inp input {
+            width: 610px;
+           height: 56px;
+           font-size: 14px;
+           }
+
+           .address-end p {
+           font-size: 15px;
+           }
+
+           .address-end button {
+            width: 270px;
+            height: 58px;
+           }
+
+
+
+           .reviews-block-end button {
+            width: 190px;
+            height: 35px;
+            font-size: 11px;
+            font-weight: 800;
+           }
+
+           .footer {
+            padding: 80px 20px;
+          }
+
+           .footer-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+          }
+
+}
+
+
+@media(max-width:1024px){
+    .container {
+        width: 90%;
+    } 
+
+
+    .swiper-slide {
+        justify-content: center;
+      }
+
+    .header {
+        gap: 65px;
+    }
+
+    .header-center {
+        gap: 55px;
+    }
+
+    .header-center a {
+        font-size: 12px;
+      } 
+
+      .header-left h6 {
+        font-size: 7px;
+        }
+
+        .hero {
+            gap: 180px;
+     }
+
+     .hero-left h2 {
+        font-size: 40px;
+ }
+
+ .hero-left h4 {
+    font-size: 18px;
+    }
+
+    .hero-left button {
+    width: 155px;
+    height: 34px;
+    font-size: 11px;   
+    }
+
+    .hero-right img {
+        width: 360px;
+    }
+
+    /* COURSES ======= */
+
+    .courses-block {
+        padding: 22px ;
+        width: 540px;
+        height: 240px;
+        }
+
+     .cs-block-center ion-icon {
+        font-size: 18px;
+         color: white;
+        cursor: pointer;
+     }
+    .cs-block-center button {
+        margin-top: 65px;
+        width: 170px;
+        height: 36px;
+        gap: 18px;
+        margin-top: 50px;
+ }
+        
+ .courses-block img {
+    width: 185px;
+    top: 24.8px;
+    right: 90px;
+    cursor:pointer ;
+}
+
+.cs-block-center h4 {
+    font-size: 16px;
+    }
+
+    .cs-block-center h6 {
+        font-size: 14px;
+    }
+
+      /* WEBINARS ======== */
+
+      .webinar-blocks {
+        padding-top: 50px;
+    }
+
+     .wb-block {
+        padding: 22px ;
+         width: 386px;
+        height: 240px;
+        }
+
+
+
+    .wb-block img {
+        width: 215px;
+        position: absolute;
+        top: 20.5px;
+        right: 20px;
+    }
+
+   
+
+    .wb-block-center button {
+        margin-top: 78px;
+        width: 155px;
+        height: 28px;
+        gap: 18px;
+        font-size: 11px;
+    }
+
+    .wb-block-center ion-icon {
+        font-size: 15px;
+    }
+
+    .wb-block-center h4 {
+        font-size: 14px;
+        }
+        
+        .wb-block-center h6 {
+        margin-top: 5px;
+        font-size: 11px;
+        }
+
+        .wb-block-top p {
+            font-size: 12px;
+            }
+
+              /* MASTER-CLASS---- */
+
+            .ms-cl-block {
+           width: 240px;
+              height: 230px;
+            }
+
+           .master-block-top h5 {
+            width: 74px;
+             height: 18px;
+             font-size: 10px;
+           }
+    
+            .master-block-center h4 {
+                font-size: 16px;
+         }
+    
+  .master-block-top p {
+       font-size: 10px;
+      }
+    
+           .master-block-center h6 {
+            font-size: 9px;
+            margin-top: 10px;
+            padding-bottom: 30px;
+           }
+    
+           .block-end-right h4 {
+            font-size: 12px;
+           }
+    
+         
+     .block-end-right p {
+       font-size: 10px;
+
+        }   
+             
+             
+      .block-end-left img {
+          width: 40px;
+         }
+
+               
+         .master-btn-end {
+        padding: 50px 0;
+     }
+
+
+
+            /* ADDRESS------- */
+
+
+            .address-left h1 {
+           font-size: 25px;
+         }
+    
+          .address-left p {
+          font-size: 16px;
+          }
+    
+          .address-inp input {
+           width: 540px;
+         height: 50px;
+         font-size: 14px;
+         }
+    
+         .address-end p {
+         font-size: 14px;
+         }
+    
+      .address-end button {
+       width: 250px;
+       height: 52px;
+      }
+
+
+      .reviews-block {
+        width: 90%;
+        height: 225px;
+      }
+
+      .reviews-block h5 {
+        padding-top: 40px;
+        font-size: 10px;
+     }
+
+     .reviews-text {
+        padding-top: 8px;
+        gap: 10px;
+     }
+
+     .reviews-text h4 {
+        padding-top: 5px;
+        font-size: 12px;
+         }
+
+    .reviews-text p {
+     font-size: 10px;
+    }
+
+    .reviews-block-end button {
+           
+     gap: 14px;
+      width: 184px;
+     height: 30px;
+     font-size: 11px;
+}
+
+}
+
+@media(max-width:992px){
+    .container {
+        width: 90%;
+    } 
+
+    .swiper-slide {
+        justify-content: center;
+      }
+
+    .header {
+        gap: 55px;
+    }
+
+    .header-center {
+        gap: 50px;
+    }
+
+   
+
+    .hero {
+     gap: 180px;
+ }
+
+     .hero-left h2 {
+        font-size: 38px;
+ }
+
+ .hero-left h4 {
+    font-size: 16px;
+    }
+
+    .hero-left button {
+    width: 155px;
+    height: 34px;
+    font-size: 11px;   
+    }
+
+    .hero-right img {
+        width: 300px;
+    }
+
+    /* COURSES ======= */
+
+    .courses-block {
+        padding: 20px ;
+        width: 520px;
+        height: 230px;
+        }
+
+     .cs-block-center ion-icon {
+        font-size: 16px;
+     }
+
+        
+ .courses-block img {
+    width: 178px;
+    top: 20.8px;
+    right: 90px;
+    cursor:pointer ;
+}
+
+.cs-block-center h4 {
+    font-size: 15px;
+    }
+
+    .cs-block-center h6 {
+        font-size: 13px;
+    }
+
+   .cs-block-center button {
+        margin-top: 65px;
+        width: 170px;
+        height: 36px;
+        gap: 18px;
+        margin-top: 50px;
+ }
+        
+.cs-block-center {
+   padding-top: 25px;
+}
+
+      /* WEBINARS ======== */
+
+      .webinar-blocks {
+        padding-top: 45px;
+    }
+
+     .wb-block {
+        padding: 22px ;
+         width: 372px;
+        height: 228px;
+        }
+
+ 
+
+    .wb-block img {
+        width: 205px;
+        position: absolute;
+        top: 20.8px;
+        right: 20px;
+    }
+
+   
+
+    .wb-block-center button {
+        margin-top: 85px;
+        width: 155px;
+        height: 28px;
+        gap: 18px;
+        font-size: 10px;
+    }
+
+    .wb-block-center ion-icon {
+        font-size: 14px;
+    }
+
+    .wb-block-center h4 {
+        font-size: 13px;
+        }
+        
+        .wb-block-center h6 {
+        margin-top: 5px;
+        font-size: 10px;
+        }
+
+        .wb-block-top p {
+            font-size: 11px;
+            }
+
+       /* MASTER-CLASS---- */
+
+            .ms-cl-block {
+           width: 230px;
+              height: 220px;
+            }
+
+           .master-block-top h5 {
+            width: 72px;
+             height: 16px;
+             font-size: 10px;
+           }
+    
+            .master-block-center h4 {
+                font-size: 14px;
+         }
+    
+         .master-block-top p {
+           font-size: 9px;
+      }
+    
+           .master-block-center h6 {
+            font-size: 9px;
+            margin-top: 8px;
+            padding-bottom: 28px;
+           }
+    
+           .block-end-right h4 {
+            font-size: 12px;
+           }
+    
+         
+     .block-end-right p {
+       font-size: 10px;
+
+        }   
+             
+             
+      .block-end-left img {
+          width: 40px;
+         }
+
+               
+         .master-btn-end {
+        padding: 50px 0;
+     }
+
+     .master-block-end {
+        padding-top: 6px;
+        gap: 18px;
+       }
+
+            /* ADDRESS------- */
+
+
+            .address-left h1 {
+           font-size: 22px;
+         }
+    
+          .address-left p {
+          font-size: 14px;
+          }
+    
+          .address-inp input {
+           width: 520px;
+         height: 45px;
+         font-size: 14px;
+         }
+    
+         .address-end p {
+         font-size: 13px;
+         }
+    
+      .address-end button {
+       width: 230px;
+       height: 48px;
+      }
+
+    }
+
+ @media(max-width:768px){
+        .container {
+            width: 90%;
+        } 
+
+        .header-center a {
+            display: none;
+
+          }
+
+          .header-center h5 {
+            display: none;
+         }
+
+
+       
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        
+        #modal-burger{
+            position: fixed;
+            z-index: 999;
+            left: 450px;
+            top: 12px;
+            display: none;
+            align-items: center;
+            background: rgba(128, 128, 128, 0);
+            width: 100%;
+            height: 100%;
+        }
+        
+        
+        .modal-burger a {
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+        }
+        
+        .modal-burger a:hover {
+            background: rgb(0, 247, 255);
+            box-shadow: 0 0 5px rgb(195, 0, 255), 0 0 25px rgb(238, 0, 255), 0 0 50px rgb(230, 0, 255), 0 0 100px rgb(204, 0, 255), 0 0 200px rgb(195, 0, 255); 
+            transform: translateX(-10px);  
+            text-align: center;
+            color: #000000;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: .7s;
+        
+        }
+        
+        .modal-burger{
+            background: linear-gradient(105deg, cyan 24.21%, #313030 88.91%);
+            width: 237px;
+            height: 430px;
+            padding: 40px; 
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 40px;
+             animation: modal-burger .3s alternate linear;
+        }
+
+        @keyframes modal-burger {
+            0% {
+                transform: scale(0);
+            }
+            25% {
+                transform: scale(0.3);
+            }
+            50% {
+                transform: scale(0.6);
+            }
+            75% {
+                transform: scale(0.9);
+            }
+            90% {
+                transform: scale(1.2);
+            }
+        
+            110% {
+                transform: scale(1);
+            }
+        }
+
+       
+        
+        .modal-burger {
+            position: relative;
+        } 
+        
+        .close-content{
+            position: absolute;
+            top: 0px;
+            right: 30px;
+            color: white;
+            font-size: 30px;
+            cursor: pointer;
+        
+        }
+        
+        .icon-open {
+            display: block;
+            cursor: pointer;
+            color: white;
+            font-size: 22px;
+        }
+        
+        .icon-open:hover {
+            transition: .3s;
+            transform: scale(1.1);
+        
+        }
+        
+        .close-content ion-icon {
+            font-size: 35px;
+            cursor: pointer;
+        } 
+
+        .hero {
+            gap: 160px;
+        }
+       
+            .hero-left h2 {
+               font-size: 24px;
+        }
+       
+        .hero-left h4 {
+           font-size: 12px;
+           }
+       
+           .hero-left button {
+           width: 140px;
+           height: 28px;
+           font-size: 9px;   
+           }
+       
+           .hero-right img {
+               width: 270px;
+           } 
+           
+           
+     /* COURSES ======= */
+
+    .courses-block {
+        padding: 20px ;
+        width: 450px;
+        height: 190px;
+        }
+
+     .cs-block-center ion-icon {
+        font-size: 16px;
+     }
+
+    
+        
+ .courses-block img {
+    width: 150px;
+    top: 20px;
+    right: 90px;
+    cursor:pointer ;
+}
+
+.cs-block-center {
+   padding-top: 10px;
+}
+
+.cs-block-center h4 {
+    font-size: 13px;
+    }
+
+    .cs-block-center h6 {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    .cs-block-center button {
+            margin-top: 65px;
+            width: 170px;
+            height: 36px;
+            gap: 18px;
+            margin-top: 40px;
+    }
+  
+.cs-block-center {
+   padding-top: 10px;
+}
+
+.swiper-slide {
+    justify-content: center;
+  }
+
+
+    /* WEBINARS ======== */
+
+    #webinars {
+        padding-top: 10px;
+    }
+
+
+    .webinar-blocks {
+        padding-top: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+     .wb-block {
+        padding: 22px ;
+         width: 450px;
+        height: 260px;
+        }
+
+   
+
+    .wb-block img {
+        width: 228px;
+        position: absolute;
+        top: 24px;
+        right: 20px;
+    }
+
+   
+
+    .wb-block-center button {
+        height: 35px;
+        gap: 18px;
+        font-size: 14px;
+        margin-top: 100px;
+    }
+
+    .wb-block-center ion-icon {
+        font-size: 14px;
+    }
+
+    .wb-block-center h4 {
+        font-size: 17px;
+        }
+        
+        .wb-block-center h6 {
+        margin-top: 5px;
+        font-size: 14px;
+        }
+
+        .wb-block-top p {
+            font-size: 11px;
+            }
+
+            .wb-btn-end button {
+                width: 256px;
+                height: 47px;
+                font-size: 16px;
+               
+            }  
+
+
+
+
+            .btn-2 {
+                width: 110px;
+                height: 36px;
+            }
+
+            .btn-1 {
+                width: 76px;
+                height: 36px;
+            }
+
+            .btn-4 {
+                width: 110px;
+                height: 36px;
+            }
+
+            .btn-3 {
+                width: 76px;
+                height: 36px;
+            }
+
+
+
+
+
+
+            /* MASTER-CLASS---- */
+
+
+            .master-start {
+                padding: 40px 0;
+            }
+
+
+            .ms-cl-block {
+                width: 165px;
+                height: 155px;
+                gap: 10px;
+                padding: 15px;
+              }
+     
+                .master-block-top h5 {
+                 width: 52px;
+                  height: 12px;
+                  font-size: 6px;
+                }
+         
+                 .master-block-center h4 {
+                     font-size: 10px;
+              }
+         
+              .master-block-top p {
+                font-size: 7px;
+           }
+
+           .master-start h2 {
+            font-size: 30px;
+       }
+
+                .master-block-center h6 {
+                 font-size: 9px;
+                 margin-top: 5px;
+                 padding-bottom: 18px;
+                }
+         
+                .block-end-right h4 {
+                 font-size: 8px;
+                }
+         
+              
+          .block-end-right p {
+            font-size: 7px;
+     
+             }   
+                  
+                  
+           .block-end-left img {
+               width: 28px;
+              }
+     
+                    
+              .master-btn-end {
+             padding: 50px 0;
+          }
+     
+          .master-block-end {
+             gap: 14px;
+
+            }
+
+            .master-btn-end button {
+                width: 300px;
+                height: 40px;
+                font-size: 15px;
+            }
+
+          /* ADDRESS------- */
+
+
+          .address-left h1 {
+            font-size: 18px;
+          }
+     
+           .address-left p {
+           font-size: 13px;
+           margin-top: 5px;
+           }
+     
+           .address-inp input {
+            width: 380px;
+            height: 40px;
+            font-size: 14px;
+        }
+     
+          .address-end p {
+          font-size: 10px;
+          }
+     
+         .address-end button {
+            width: 175px;
+            height: 37px;
+            font-size: 14px;
+        }   
+
+
+
+        .reviews-block {
+            width: 90%;
+            height: 225px;
+        }
+
+        .reviews-block-end button {
+            gap: 9px;
+            width: 164px;
+            height: 25px;
+            font-size: 9px;
+        }
+
+        .reviews-block img {
+            width: 50px;
+        }
+
+        .reviews-text {
+            margin: 8px 0;
+        }
+
+        /* FOOTER ======== */
+
+        .footer {
+            padding: 20px 18px;
+        }
+
+        .footer-top img {
+            width: 70px;
+            height: 77px;
+        }
+
+        .footer-top h4 {
+            font-size: 14px;
+        }
+
+        .footer-top p, .footer-top a {
+            font-weight: 400;
+            font-size: 8px;
+            line-height: 18px;
+            color: #9099A3;
+        }
+
+        .footer-top p {
+            font-size: 9px;
+        }
+
+        .footer-bottom p {
+            font-size: 10px;
+        }
+
+        .footer-set a .footer-set-icon {
+            height: 16px;
+            width: 17px;
+            padding: 4px;
+        }
+  }
+
+  @media(max-width:576px){
+    .container {
+        width: 90%;
+    } 
+
+    .hero {
+        gap: 120px;
+    }
+
+    .hero-right img {
+        width: 220px;
+    }
+
+    .hero-left h2 {
+        font-size: 20px;
+    }
+
+    .hero-left h4 {
+        font-size: 9px;
+    }
+
+    .hero-left button {
+        width: 113px;
+        height: 21px;
+        font-size: 9px;
+    }
+
+    .courses-start h2 {
+        font-size: 36px;
+    }
+
+    .courses-start ion-icon {
+        padding: 6px;
+        font-size: 17px;
+    }
+
+    .left-icon {
+        margin-left: 5px;
+    }
+
+
+
+    .courses-block {
+        padding: 20px;
+        width: 390px;
+        height: 169px;
+    }
+
+    .cs-block-top p {
+        font-size: 11px;
+    }
+
+    .cs-block-center h4 {
+        font-size: 12px;
+    }
+
+    .cs-block-center h6 {
+        font-size: 10px;
+        margin-top: 3px;
+    }
+
+    .cs-block-center button {
+        width: 138px;
+        height: 28px;
+        gap: 9px;
+        font-size: 14px;
+        margin-top: 40px;
+        display: flex;
+        align-items: center;
+    }
+
+    .courses-block img {
+        width: 142px;
+        top: 10px;
+        right: 66px;
+        cursor: pointer;
+    }
+
+    .wb-block {
+        padding: 22px;
+        width: 416px;
+        height: 237px;
+    }
+
+     .wb-block-top {
+        display: flex;
+        align-items: center;
+        
+    } 
+
+    .wb-block-center button {
+        height: 30px;
+        font-size: 13px;
+        margin-top: 69px;
+        width: 147px;
+    }
+
+    .wb-block img {
+        width: 218px;
+        position: absolute;
+        top: 15px;
+        right: 10px;
+    }
+
+    .wb-btn-end button {
+        width: 200px;
+        height: 41px;
+        font-size: 15px;
+    }
+
+    .master-start h2 {
+        font-size: 26px;
+    }
+
+    .master-blocks {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .ms-cl-block {
+        width: 310px;
+        height: 300px;
+        gap: 10px;
+        padding: 24px;
+    }
+
+    .master-block-top h5 {
+        width: 82px;
+        height: 16px;
+        font-size: 10px;
+    }
+
+    .master-block-top p {
+        font-size: 12px;
+    }
+
+    .master-block-center h4 {
+        font-size: 20px;
+    }
+
+    .master-block-center h6 {
+        font-size: 15px;
+        margin-top: 6px;
+        padding-bottom: 40px;
+    }
+
+    .block-end-left img {
+        width: 44px;
+    }
+
+    .block-end-right h4 {
+        font-size: 16px;
+    }
+
+    .block-end-right p {
+        font-size: 15px;
+    }
+
+    .master-block-end {
+        margin-top: 10px;
+        gap: 20px;
+        display: flex;
+        align-items: center;
+    }
+
+    .address {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 38px;
+    }
+
+    .address-left h1 {
+        font-size: 26px;
+    }
+
+    .address-left p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    
+    .reviews-block {
+        width: 63%;
+        height: 200px;
+    }
+
+    .reviews-block h5 {
+        padding-top: 38px;
+        font-size: 9px;
+    }
+
+    .reviews-text h4 {
+        padding-top: 0px;
+        font-size: 10px;
+    }
+
+    .reviews-block-end button {
+        gap: 9px;
+        width: 145px;
+        height: 21px;
+        font-size: 8px;
+    }
+
+    .icon-inner, .ionicon, svg {
+        display: block;
+        height: 95%;
+        width: 91%;
+    }
+
+    .footer-top {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .footer-top img {
+        width: 107px;
+        height: 126px;
+    }
+
+    .footer-top h4 {
+        font-size: 32px;
+    }
+
+    
+    .footer-top p, .footer-top a {
+        font-size: 18px;
+    }
+
+    .footer-address {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .footer-address  p {
+        padding-left: 60px;
+    }
+
+    .footer-bottom p {
+        font-size: 7px;
+    }
+
+    #modal-burger {
+        left: 267px;
+        top: -10px;
+    }
+
+    .fa-laptop {
+        width: 24px;
+    }
+}
+
+@media(max-width:451px){
+    .container {
+        width: 90%;
+    } 
+
+    .hero-right img {
+        width: 272px;
+        position: absolute;
+        top: 0;
+        left: 65px;
+        opacity: 0.2;
+    }
+
+    .hero {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 80px;
+        position: relative;
+    }
+
+    .hero-left h4 {
+        font-size: 17px;
+    }
+
+    .hero-left h2 {
+        font-size: 33px;
+    }
+
+    .hero-left button {
+        width: 163px;
+        height: 37px;
+        font-size: 11px;
+    }
+
+    .hero-left {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 120px;
+    }
+
+    .courses-start h2 {
+        font-size: 30px;
+    }
+
+    .courses-start ion-icon {
+        padding: 6px;
+        font-size: 13px;
+    }
+
+    .courses-block {
+        padding: 20px;
+        width: 337px;
+        height: 157px;
+    }
+
+    .courses-block img {
+        width: 134px;
+        top: 9px;
+        right: 40px;
+        cursor: pointer;
+    }
+
+    .cs-block-center button {
+        width: 116px;
+        height: 25px;
+        gap: 9px;
+        font-size: 10px;
+        margin-top: 35px;
+        display: flex;
+        align-items: center;
+    }
+
+    .webinars-start h2 {
+        font-size: 30px;
+    }
+
+    .wb-block {
+        padding: 22px;
+        width: 363px;
+        height: 223px;
+    }
+
+    .wb-block img {
+        width: 203px;
+        position: absolute;
+        top: 18px;
+        right: 3px;
+    }
+
+    .wb-block-center h4 {
+        font-size: 16px;
+    }
+
+    .wb-block-center h6 {
+        margin-top: 5px;
+        font-size: 12px;
+    }
+
+    .master-start h2 {
+        font-size: 26px;
+    }
+
+    .master-btn-end button {
+        width: 250px;
+        height: 41px;
+        font-size: 12px;
+    }
+
+    .address-inp input {
+        width: 366px;
+        height: 45px;
+        font-size: 17px;
+    }
+
+    .address-end button {
+        width: 163px;
+        height: 35px;
+        font-size: 15px;
+    }
+
+    .footer-address p {
+        padding-left: 0px;
+    }
+
+    .footer-top h4 {
+        font-size: 32px; 
+    }
+
+    .footer-address {
+        display: flex;
+        align-items: start;
+        padding-left: 30px;
+    }
+
+    .footer-set a .footer-set-icon {
+        height: 24px;
+        width: 24px;
+        padding: 4px;
+    }
+
+
+    #modal-burger {
+        left: 150px;
+        top: -40px;
+      
+    }
+
+    .modal-burger {
+        width: 222px;
+        height: 446px;
+        padding: 38px;
+        gap: 38px;
+          z-index: 999;
+          position: fixed;
+    }
+
+    .close-content {
+    position: absolute;
+    top: 1px;
+    right: 12px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+}
+
+@media(max-width:400px){
+    .container {
+        width: 90%;
+    } 
+
+    .hero-right img {
+        left: 60px;
+    }
+
+    .hero-left {
+        padding-left: 25px;
+    }
+
+    .courses-block {
+        padding: 20px;
+        width: 283px;
+        height: 297px;
+    }
+
+    .cs-block-center h4 {
+        font-size: 19px;
+        padding-top: 130px;
+
+    }
+
+    .cs-block-center h6 {
+        font-size: 15px;
+        margin-top: 3px;
+    }
+
+    .courses-block img {
+        width: 124px;
+        top: 7px;
+        right: 119px;
+        cursor: pointer;
+    }
+
+    .cs-block-center button {
+        width: 116px;
+        height: 25px;
+        font-size: 10px;
+        margin-top: 16px;
+    }
+
+    .wb-block {
+        padding: 22px;
+        width: 287px;
+        height: 280px;
+    }
+
+    .wb-block-center h4 {
+        font-size: 16px;
+        margin-top: 130px;
+    }
+
+    .wb-block img {
+        width: 153px;
+        position: absolute;
+        top: 11px;
+        right: 79px;
+    }
+
+    .wb-block-center button {
+        height: 29px;
+        font-size: 11px;
+        margin-top: 16px;
+        width: 122px;
+    }
+
+    .ms-cl-block {
+        width: 275px;
+        height: 279px;
+        gap: 7px;
+        padding: 24px;
+    }
+
+    .master-block-center h6 {
+        font-size: 15px;
+        margin-top: 6px;
+        padding-bottom: 30px;
+    }
+
+    .master-block-top h5 {
+        width: 71px;
+        height: 17px;
+        font-size: 10px;
+    }
+
+    .block-end-right h4 {
+        font-size: 15px;
+    }
+
+    .block-end-right p {
+        font-size: 14px;
+    }
+
+    .master-start h2 {
+        font-size: 23px;
+    }
+
+    
+    .btn-1 {
+        width: 70px;
+        height: 34px;
+        font-size: 16px;
+    }
+
+    .btn-2 {
+        width: 105px;
+        height: 34px;
+        font-size: 16px;
+    }
+
+    .btn-3 {
+        width: 70px;
+        height: 34px;
+        font-size: 16px;
+    }
+
+    .btn-4 {
+        width: 105px;
+        height: 34px;
+        font-size: 16px;
+    }
+
+    .address-inp input {
+        width: 314px;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    .address-message-blocks {
+        display: flex;
+        align-items: center;
+        padding-top: 40px;
+    }
+
+    .address-inp p {
+        font-size: 12px;
+        margin: 5px;
+    }
+
+    .address-end {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        margin-top: 10px;
+    }
+
+    .address-end p {
+        font-size: 14px;
+    }
+
+    .address-end button {
+        width: 190px;
+        height: 43px;
+        font-size: 19px;
+    }
+
+    .footer-top p, .footer-top a {
+        font-size: 17px;
+    }
+
+    .footer-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .footer-address {
+        display: flex;
+        align-items: start;
+        padding-left: 14px;
+    }
+
+    .footer-bottom { 
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        margin-top: 40px;
+        padding-left: 8px;
+
+    }
+
+    .footer-bottom p {
+        font-size: 16px;
+    }
+
+    
+    #modal-burger {
+        left: 100px;
+        top: -40px;
+      
+    }
+
+    .modal-burger {
+        width: 222px;
+        height: 446px;
+        padding: 38px;
+        gap: 38px;
+          z-index: 999;
+          position: fixed;
+    }
+
+
+
+}
+
+@media(max-width:376px){
+    .container {
+        width: 90%;
+    } 
+
+    .hero-right img {
+        left: 38px;
+    }
+
+    .hero-left {
+        padding-left: 10px;
+    }
+
+    .webinars-start h2 {
+        font-size: 24px;
+    }
+
+    .master-start h2 {
+        font-size: 21px;
+    }
+
+    .wb-block {
+        padding: 22px;
+        width: 281px;
+        height: 282px;
+    }
+
+    .courses-block {
+        padding: 20px;
+        width: 279px;
+        height: 297px;
+    }
+
+    .cs-block-center h6 {
+        font-size: 14px;
+        margin-top: 3px;
+    }
+
+    .ms-cl-block {
+        width: 272px;
+        height: 274px;
+        gap: 7px;
+        padding: 24px;
+    }
+
+    .footer-set a .footer-set-icon {
+        height: 21px;
+        width: 22px;
+        padding: 4px;
+    }
+
+    #modal-burger {
+        left: 85px;
+        top: -45px;
+      
+    }
+
+    .modal-burger {
+        width: 222px;
+        height: 440px;
+        padding: 35px;
+        gap: 38px;
+          z-index: 999;
+          position: fixed;
+    }
+
+
+}
+
+@media(max-width:320px){
+    .container {
+        width: 90%;
+    } 
+
+    .hero-right img {
+        left: 18px;
+    }
+
+    .hero-left {
+        padding-left: 14px;
+    }
+
+    .hero-left h4 {
+        font-size: 15px;
+    }
+
+    .hero-left h2 {
+        font-size: 32px;
+    }
+
+    .webinars-start h2 {
+        font-size: 24px;
+    }
+
+    .master-start h2 {
+        font-size: 21px;
+    }
+
+    .wb-block {
+        padding: 14px;
+        width: 239px;
+        height: 262px;
+    }
+
+    .wb-block img {
+        width: 140px;
+        position: absolute;
+        top: 6px;
+        right: 58px;
+    }
+
+    .wb-block-center h4 {
+        font-size: 15px;
+        margin-top: 115px;
+    }
+
+    .wb-block-center button {
+        height: 24px;
+        font-size: 10px;
+        margin-top: 11px;
+        width: 114px;
+    }
+
+    .fa-laptop {
+        width: 18px;
+    }
+
+
+    #modal-burger {
+        left: 65px;
+        top: -53px;
+    }
+
+
+    .modal-burger {
+        width: 186px;
+        height: 428px;
+        padding: 34px;
+        gap: 50px;
+        z-index: 999;
+        position: fixed;
+    }
+
+    .modal-burger a {
+        font-size: 28px;
+    }
+
+    .close-content {
+        font-size: 33px;
+        right: 10px;
+        top: 1px;
+        
+    }
+
+    .ms-cl-block {
+        width: 244px;
+        height: 257px;
+        gap: 7px;
+        padding: 14px;
+    }
+
+    .master-block-center h4 {
+        font-size: 17px;
+    }
+
+    .master-block-center h6 {
+        font-size: 14px;
+        margin-top: 7px;
+        padding-bottom: 30px;
+    }
+
+    .block-end-right h4 {
+        font-size: 13px;
+    }
+
+    .block-end-right p {
+        font-size: 12px;
+    }
+
+    .master-btn-end button {
+        width: 232px;
+        height: 41px;
+        font-size: 12px;
+    }
+    
+    .address-left h1 {
+        font-size: 22px;
+    }
+
+    .address-left p {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+
+    .address-inp input {
+        width: 267px;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    .address-end button {
+        width: 174px;
+        height: 38px;
+        font-size: 18px;
+    }
+
+    .address-end {
+        gap: 26px;
+        margin-top: 10px;
+    }
+
+    .footer-top h4 {
+        font-size: 27px;
+    }
+
+    .footer-address {
+        padding-left: 0px;
+    }
+    
+
+
+
+}
+
+
+
+
