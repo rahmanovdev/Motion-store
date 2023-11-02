@@ -645,8 +645,8 @@
         #modal-burger{
             position: fixed;
             z-index: 999;
-            left: 450px;
-            top: 12px;
+            left: 448px;
+            top: -44px;
             display: none;
             align-items: center;
             background: rgba(128, 128, 128, 0);
@@ -656,7 +656,6 @@
         
         
         .modal-burger a {
-            color: rgb(0, 0, 0);
             font-size: 30px;
         }
         
@@ -1494,11 +1493,11 @@
     } 
 
     .hero-right img {
-        left: 60px;
+        left: 47px;
     }
 
     .hero-left {
-        padding-left: 25px;
+        padding-left: 8px;
     }
 
     .courses-block {
@@ -1586,6 +1585,11 @@
 
     .master-start h2 {
         font-size: 23px;
+    }
+
+    .reviews-block {
+        width: 53%;
+        height: 200px;
     }
 
     
@@ -1742,6 +1746,11 @@
         padding: 24px;
     }
 
+    .reviews-block {
+        width: 52%;
+        height: 200px;
+    }
+
     .footer-set a .footer-set-icon {
         height: 21px;
         width: 22px;
@@ -1750,8 +1759,7 @@
 
     #modal-burger {
         left: 85px;
-        top: -45px;
-      
+        top: -55px;
     }
 
     .modal-burger {
@@ -1776,7 +1784,7 @@
     }
 
     .hero-left {
-        padding-left: 14px;
+        padding-left: 0px;
     }
 
     .hero-left h4 {
@@ -1785,6 +1793,37 @@
 
     .hero-left h2 {
         font-size: 32px;
+    }
+
+
+    .courses-block {
+        padding: 20px;
+        width: 227px;
+        height: 269px;
+    }
+
+    .courses-block img {
+        width: 120px;
+        top: 7px;
+        right: 72px;
+        cursor: pointer;
+    }
+
+    .cs-block-center h6 {
+        font-size: 11px;
+        margin-top: 3px;
+    }
+
+    .cs-block-center button {
+        width: 116px;
+        height: 25px;
+        font-size: 10px;
+        margin-top: 13px;
+    }
+
+    .cs-block-center h4 {
+        font-size: 19px;
+        padding-top: 126px;
     }
 
     .webinars-start h2 {
@@ -1915,9 +1954,19 @@
     .footer-address {
         padding-left: 0px;
     }
+
+    .footer-top p, .footer-top a {
+        font-size: 16px;
+    }
     
+    .footer-bottom p {
+        font-size: 14px;
+    }
 
-
+    .reviews-block {
+        width: 44%;
+        height: 193px;
+    }
 
 }
 
